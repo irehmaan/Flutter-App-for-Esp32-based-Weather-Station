@@ -1,6 +1,6 @@
 # ESP32 Weather Station with Flutter and Firebase Integration
 
-![App Screenshot](https://github.com/irehmaan/Flutter-App-for-Esp32-based-Weather-Station/blob/master/LogIn%20Screen.png)
+![App Screenshot](https://github.com/irehmaan/Flutter-App-for-Esp32-based-Weather-Station/raw/master/LogInScreen.png)
 
 ## Overview
 
