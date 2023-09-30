@@ -52,9 +52,13 @@ Before you begin, ensure you have met the following requirements:
 6. Run the app:
    ```bash
    flutter run
-##Usage
+   
+## Usage
+
 Open the app and register/login with your credentials.
 Access real-time weather data from the main dashboard.
 
-##Contributing
+
+## Contributing
+
 Contributions are welcome! Please feel free to submit a pull request.
