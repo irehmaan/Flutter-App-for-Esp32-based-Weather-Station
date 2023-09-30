@@ -1,16 +1,37 @@
-# weatther_station
+# ESP32 Weather Station with Flutter and Firebase Integration
 
-A new Flutter project.
+![App Screenshot](screenshot.png)
+
+## Overview
+
+This project demonstrates how to build a Flutter app that integrates with Firebase to create a real-time weather monitoring system using an ESP32-based Weather Station. The app allows users to access real-time weather data, register, and log in securely.
+
+## Features
+
+- Real-time weather data display from Firebase Realtime Database.
+- User authentication and authorization.
+- User registration.
+- Secure data transmission and storage.
+- User-friendly interface for monitoring weather conditions.
+
+## Technologies Used
+
+- **Flutter**: Cross-platform framework for building mobile applications.
+- **Firebase**: Backend as a Service (BaaS) platform for authentication, database, and hosting.
+- **ESP32**: Microcontroller used for sensing environmental data and uploading it to Firebase.
+- **Dart**: Programming language for building Flutter apps.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Install Flutter and Dart: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
+- Set up a Firebase project: [Firebase Console](https://console.firebase.google.com/)
+- ESP32 Development Environment: [ESP-IDF Setup](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/yourusername/esp32-flutter-weather-station.git
