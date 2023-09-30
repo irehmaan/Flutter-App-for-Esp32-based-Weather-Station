@@ -46,8 +46,8 @@ Before you begin, ensure you have met the following requirements:
 3. Install dependencies:
     ```bash
     flutter pub get
-4. Configure Firebase:
-  -Add your Firebase configuration files to the /android/app and /ios directories.
+4. Configure Firebase:Add your Firebase configuration files to the /android/app and /ios directories.
+   
 5.Connect your ESP32 device to the project and set up Firebase integration for data upload.
 6. Run the app:
    ```bash
